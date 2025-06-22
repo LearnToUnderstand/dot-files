@@ -126,10 +126,9 @@ xterm*|rxvt*)
 esac
 
 
-#########
-#these are my own
+#  these are my own additions
 
-calcurse
 PS1="\n\n\d    \t    \w \n\$ "
 alias fish.sh="/home/mx/Downloads/fish.sh"
 exec xfce4-power-manager&
+calcurse
